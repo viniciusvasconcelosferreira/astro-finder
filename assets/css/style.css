@@ -1,0 +1,27 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 3rem;
+    color: #f9a825;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+
+.btn-primary {
+    background-color: #f9a825;
+    border: none;
+    color: #212529;
+}
+
+.btn-primary:hover {
+    background-color: #ffc107;
+}

@@ -1,0 +1,11 @@
+body.index-page {
+    background: linear-gradient(to right, #001f3f, #001f5f);
+}
+
+h1.index-title {
+    color: #f9a825;
+}
+
+p.index-description {
+    color: #ffffff;
+}
